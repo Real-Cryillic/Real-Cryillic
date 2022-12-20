@@ -15,6 +15,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Real-Cryillic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Real-Cryillic&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Real-Cryillic&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Real-Cryillic)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
